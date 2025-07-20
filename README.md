@@ -20,5 +20,4 @@ Option 3 triggers the readFile() function. This function opens the file in read 
 Option 4 simply exits the program using return 0, which breaks out of the infinite loop and ends the execution. For any other number entered, an error message “Invalid choice” is displayed, and the menu is shown again.
 
 This program is a good example for beginners learning how to work with files in C++. It covers the basic operations that are commonly used in real-world applications involving file storage and retrieval. It also demonstrates good practice in terms of user interaction, checking for file opening errors, and separating logic into well-named functions for clarity. With minor modifications, this code can be extended into more advanced applications like student databases, log systems, or note-taking tools. Overall, this is a foundational program that showcases the importance and use of file-handling techniques in C++ in a simple and structured way.
-
-
+output: <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/1910519a-5823-4786-a26d-46210e66eb75" />
